@@ -1,16 +1,60 @@
-# React + Vite
+# Portfólio Pessoal | Camilla Edite 💜
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge React](https://img.shields.io/static/v1?label=REACT&message=FRAMEWORK&color=blue&style=for-the-badge&logo=react)
+![Badge Sass](https://img.shields.io/static/v1?label=SASS&message=CSS&color=pink&style=for-the-badge&logo=sass)
+![Badge Vite](https://img.shields.io/static/v1?label=VITE&message=BUILD&color=purple&style=for-the-badge&logo=vite)
 
-Currently, two official plugins are available:
+## 💻 Sobre o projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este é o meu portfólio pessoal desenvolvido como parte da minha jornada em **Sistemas de Informação** e **Desenvolvimento Web**.
 
-## React Compiler
+O objetivo deste projeto é apresentar meus conhecimentos técnicos, projetos realizados e formas de contato, tudo em uma interface **moderna**, **responsiva** e com identidade visual única (tema dark com detalhes em lilás/roxo).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Design Responsivo:** Layout adaptável para Celulares, Tablets e Desktops.
+- **Menu Interativo:**
+  - Desktop: Barra de navegação fixa.
+  - Mobile: Menu estilo "Hambúrguer" com animação suave de abertura e fechamento.
+- **Seções:**
+  - **Home:** Apresentação inicial.
+  - **Sobre Mim:** Foto e resumo profissional.
+  - **Techs:** Grid com ícones das tecnologias que domino.
+  - **Projetos:** Cards com prévia dos trabalhos e links.
+  - **Contato:** Rodapé com links para redes sociais e e-mail.
+- **Animações:** Efeitos de hover (passar o mouse) em botões, cards e ícones.
+
+---
+
+## 🎨 Layout
+
+## 🛠️ Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+- **[React](https://reactjs.org/):** Biblioteca JavaScript para construção da interface.
+- **[Sass/SCSS](https://sass-lang.com/):** Pré-processador CSS para estilização avançada.
+- **JavaScript (ES6+):** Lógica de interação.
+- **Vite:** Ferramenta de build rápida e otimizada.
+
+---
+
+## 🚀 Como rodar o projeto
+
+Pré-requisitos: Você precisa ter o [Node.js](https://nodejs.org/) instalado.
+
+```bash
+# Clone este repositório
+$ git clone [https://github.com/camilla-editeb/Portfolio-CamillaEdite.git](https://github.com/camilla-editeb/Portfolio-CamillaEdite.git)
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd Portfolio-CamillaEdite
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
