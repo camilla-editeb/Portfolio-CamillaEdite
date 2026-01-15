@@ -1,6 +1,5 @@
 # Portfólio Pessoal | Camilla Edite 💜
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![Badge Concluído](http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=GREEN&style=for-the-badge)
 ![Badge React](https://img.shields.io/static/v1?label=REACT&message=FRAMEWORK&color=blue&style=for-the-badge&logo=react)
 ![Badge Sass](https://img.shields.io/static/v1?label=SASS&message=CSS&color=pink&style=for-the-badge&logo=sass)
 ![Badge Vite](https://img.shields.io/static/v1?label=VITE&message=BUILD&color=purple&style=for-the-badge&logo=vite)
