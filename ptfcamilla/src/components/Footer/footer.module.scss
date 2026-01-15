@@ -1,0 +1,28 @@
+
+.sfooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #E68EF5;
+    min-height: 8vh;
+    width: 100%;
+
+    
+    @media (max-width:768px){
+        height: auto;
+        min-height: 8vh;
+    }
+
+    p{
+        color: black;
+        margin: 0;
+        font-size: 0.9rem;
+        width: 100%;
+
+        @media (max-width:768px){
+            font-size: 0.7rem;
+            font-weight: bold;
+        }
+    }
+}

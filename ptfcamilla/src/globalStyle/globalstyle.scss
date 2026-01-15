@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap');
+
+html, body{
+    width: 100%;
+    min-height: 100vh;
+
+    font-family: var(--font padrao);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-tech);
+}
+
+p{
+    font-family: var(--font-padrao);
+}
+
+:root{
+    --font-padrao: 'Poppins', sans-serif;
+    --font-tech: 'JetBrains Mono', monospace;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-decoration: none;
+}
